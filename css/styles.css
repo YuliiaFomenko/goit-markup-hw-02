@@ -35,10 +35,8 @@ ul {
 
 .nav-link:hover,
 .nav-link:focus,
-.contact-info-email:hover,
-.contact-info-phone:hover,
-.contact-info-email:focus,
-.contact-info-phone:focus {
+.contact-info-link:hover,
+.contact-info-link:focus {
   color: #404bbf;
 }
 
